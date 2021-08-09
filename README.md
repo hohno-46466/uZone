@@ -1,5 +1,4 @@
-# uZone
-Unix Zone
+# uZone - Unix Zone
 
     ./uZone
      ├── 00README.txt

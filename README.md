@@ -1,4 +1,4 @@
-# uZone - Unix Zone
+# GitHub/uZone - Unix Zone
 
     ./uZone
      ├── 00README.txt
@@ -79,3 +79,5 @@ Thu Apr  9 14:57:40 JST 2020
 See also 00README.txt, if prepared.
 -->
 
+
+-EOF-

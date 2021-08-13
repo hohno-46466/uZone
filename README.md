@@ -80,4 +80,6 @@ See also 00README.txt, if prepared.
 -->
 
 
+Note: 	url = https://github.com/hohno-46466/uZone
+
 -EOF-

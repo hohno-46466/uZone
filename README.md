@@ -1,5 +1,7 @@
 # GitHub/uZone - Unix Zone
 
+Unix Zone
+
     ./uZone
      ├── 00README.txt
      └── README.md
@@ -79,8 +81,8 @@ Thu Apr  9 14:57:40 JST 2020
 See also 00README.txt, if prepared.
 -->
 
-Note: 	url = https://github.com/hohno-46466/uZone
+Note:	url = https://github.com/hohno-46466/uZone
 
-Note:   url = git@github.com:hohno-46466/uZone.git
+Note:	url = git@github.com:hohno-46466/uZone.git
 
 -EOF-

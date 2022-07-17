@@ -7,7 +7,7 @@ Unix Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Jul 16 16:00:20 JST 2022)
+     0 directories, 3 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--EEU
      ├──  ==PrivateRepository==
@@ -72,7 +72,7 @@ Unix Zone
          └──  spool/
              └──  cron/
      
-     12 directories, 49 files (Sat Jul 16 16:00:20 JST 2022)
+     12 directories, 49 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--NTPtools
      ├──  README.md
@@ -91,7 +91,7 @@ Unix Zone
          ├──  unixTime2ISO8601time.sh
          └──  unixTime2humanReadableTime.sh
      
-     4 directories, 11 files (Sat Jul 16 16:00:20 JST 2022)
+     4 directories, 11 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--RPi-LED-Matrix
      ├──  ==PrivateRepository==
@@ -143,13 +143,13 @@ Unix Zone
          ├──  rpi-rgb-led-matrix-20180325-0400.tar.gz
          └──  rpi-rgb-led-matrix-20210627-0925.tar.gz
      
-     2 directories, 46 files (Sat Jul 16 16:00:20 JST 2022)
+     2 directories, 46 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--expectExamples
      ├──  README.md
      └──  expect-test.expect
      
-     0 directories, 2 files (Sat Jul 16 16:00:20 JST 2022)
+     0 directories, 2 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--getbitmapfont
      ├──  README.md
@@ -169,7 +169,7 @@ Unix Zone
          │   └──  id_rsa.pub
          └──  trans270.rb
      
-     3 directories, 13 files (Sat Jul 16 16:00:20 JST 2022)
+     3 directories, 13 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--gettimeofday
      ├──  README.md
@@ -184,7 +184,7 @@ Unix Zone
          ├──  Makefile
          └──  gettimeofday.c
      
-     3 directories, 8 files (Sat Jul 16 16:00:20 JST 2022)
+     3 directories, 8 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--lsgithub
      ├──  00doit.sh
@@ -193,20 +193,20 @@ Unix Zone
      ├──  lsgithub
      └──  lsgithub_prev
      
-     0 directories, 5 files (Sat Jul 16 16:00:20 JST 2022)
+     0 directories, 5 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--movingGraph
      ├──  README.md
      ├──  examples.txt
      └──  moving-graph-type1.sh
      
-     0 directories, 3 files (Sat Jul 16 16:00:20 JST 2022)
+     0 directories, 3 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--nanoKontrol2
      ├──  README.md
      └──  nanoKONTROL2.sh
      
-     0 directories, 2 files (Sat Jul 16 16:00:20 JST 2022)
+     0 directories, 2 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--oneliners
      ├──  README.md
@@ -222,7 +222,7 @@ Unix Zone
      ├──  urldecode.sh
      └──  urlencode.sh
      
-     1 directory, 11 files (Sat Jul 16 16:00:20 JST 2022)
+     1 directory, 11 files (Sun Jul 17 17:48:12 JST 2022)
 
     ./uZone--tools--txt2gmail
      ├──  README.md
@@ -230,7 +230,7 @@ Unix Zone
      ├──  dot.msmtprc
      └──  txt2gmail.sh
      
-     0 directories, 4 files (Sat Jul 16 16:00:20 JST 2022)
+     0 directories, 4 files (Sun Jul 17 17:48:12 JST 2022)
 
 
 Note:	url = https://github.com/hohno-46466/uZone

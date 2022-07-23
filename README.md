@@ -233,8 +233,8 @@ Unix Zone
      0 directories, 4 files (Sun Jul 17 17:48:12 JST 2022)
 
 
-Note:	url = https://github.com/hohno-46466/uZone
+Note: url = https://github.com/hohno-46466/uZone
 
-Note:	url = git@github.com:hohno-46466/uZone.git
+Note: url = git@github.com:hohno-46466/uZone.git
 
 -EOF-

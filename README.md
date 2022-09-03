@@ -2,14 +2,14 @@
 
 Unix Zone
 
-    ./uZone/
+    ./uZone
      ├──  00README.txt
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Aug 27 18:14:58 JST 2022)
+     0 directories, 3 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./uZone--tools--EEU/
+    ./uZone--tools--EEU
      ├──  ==PrivateRepository==
      ├──  QQ-Scripts.sh
      ├──  QQ-TEMPLATE.sh
@@ -84,9 +84,9 @@ Unix Zone
          └──  spool/
              └──  cron/
      
-     12 directories, 61 files (Sat Aug 27 18:14:58 JST 2022)
+     12 directories, 61 files (Sat Sep  3 16:13:27 JST 2022)
 
-    ./uZone--tools--lsgithub/
+    ./uZone--tools--lsgithub
      ├──  00doit.sh
      ├──  MANPAGE.md
      ├──  README.md
@@ -94,7 +94,7 @@ Unix Zone
      ├──  lsgithub
      └──  lsgithub_prev
      
-     0 directories, 6 files (Sat Aug 27 18:14:58 JST 2022)
+     0 directories, 6 files (Sat Sep  3 16:13:27 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/uZone

@@ -7,7 +7,7 @@ Unix Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 3 files (Sat Sep  3 17:30:10 JST 2022)
+     0 directories, 3 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./uZone--tools--EEU
      ├──  ==PrivateRepository==
@@ -84,7 +84,124 @@ Unix Zone
          └──  spool/
              └──  cron/
      
-     12 directories, 61 files (Sat Sep  3 17:30:10 JST 2022)
+     12 directories, 61 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--NTPtools
+     ├──  README.md
+     ├──  README.md.old
+     ├──  getNTPdata.sh.old
+     ├──  misc/
+     │   └──  ptw/
+     │       └──  ptw.c
+     ├──  old/
+     │   ├──  dumpNTPpacket.old
+     │   └──  getNTPdata.old
+     └──  scripts/
+         ├──  NTPtime2unixTime.sh
+         ├──  demo629.sh
+         ├──  dumpNTPpacket.sh
+         ├──  getNTPdata.sh
+         ├──  unixTime2ISO8601time.sh
+         └──  unixTime2humanReadableTime.sh
+     
+     4 directories, 12 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--RPi-LED-Matrix
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  README.md.old
+     └──  display16x32/
+         ├──  rpi-rgb-led-matrix/
+         │   ├──  01sample-1.ppm
+         │   ├──  Makefile
+         │   ├──  OUTPUT-IC2014-2.ppm
+         │   ├──  OUTPUT-IC2014.ppm
+         │   ├──  OUTPUT-imas-0.ppm
+         │   ├──  OUTPUT.ppm
+         │   ├──  OUTPUT2-OMMF2014-1.ppm
+         │   ├──  OUTPUT2-WIDE201409-1.ppm
+         │   ├──  OUTPUT2-WIDE201409-2.ppm
+         │   ├──  OUTPUT2-imc.ppm
+         │   ├──  README.md
+         │   ├──  foo.ppm
+         │   ├──  gpio.cc
+         │   ├──  gpio.h
+         │   ├──  led-matrix-0.5msec
+         │   ├──  led-matrix-10msec
+         │   ├──  led-matrix-16x128
+         │   ├──  led-matrix-16x224
+         │   ├──  led-matrix-16x64
+         │   ├──  led-matrix-1msec
+         │   ├──  led-matrix-20141123
+         │   ├──  led-matrix-20201222
+         │   ├──  led-matrix-20201222.h
+         │   ├──  led-matrix-20msec
+         │   ├──  led-matrix-2msec
+         │   ├──  led-matrix-5msec
+         │   ├──  led-matrix-fast
+         │   ├──  led-matrix-wrapper.sh
+         │   ├──  led-matrix-wrapper2.sh
+         │   ├──  led-matrix.cc
+         │   ├──  led-matrix.h
+         │   ├──  main-20201222.cc
+         │   ├──  main.cc
+         │   ├──  mytechlab.ppm
+         │   ├──  runtext.ppm
+         │   ├──  test123.ppm
+         │   ├──  test765.ppm
+         │   ├──  test765all.ppm
+         │   ├──  text01.ppm
+         │   ├──  thread.cc
+         │   └──  thread.h
+         ├──  rpi-rgb-led-matrix-20141122-1800.tar.gz
+         ├──  rpi-rgb-led-matrix-20180325-0400.tar.gz
+         └──  rpi-rgb-led-matrix-20210627-0925.tar.gz
+     
+     2 directories, 47 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--expectExamples
+     ├──  README.md
+     ├──  README.md.old
+     └──  expect-test.expect
+     
+     0 directories, 3 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--getbitmapfont
+     ├──  README.md
+     ├──  README.md.old
+     ├──  fonts/
+     │   ├──  jiskan16.bdf
+     │   └──  jiskan16.pcf.gz
+     ├──  getbitmapfont.sh
+     ├──  getbitmapfontX.sh
+     └──  misc/
+         ├──  make_16xN_bitmap.sh
+         ├──  make_16xN_bitmap_test1.sh
+         ├──  make_16xN_bitmap_wrapper.bak.sh
+         ├──  make_16xN_bitmap_wrapper.sh
+         ├──  output.ppm
+         ├──  text2ppm.sh
+         ├──  tmp/
+         │   └──  id_rsa.pub
+         └──  trans270.rb
+     
+     3 directories, 14 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--gettimeofday
+     ├──  README.md
+     ├──  README.md.old
+     ├──  oneliners/
+     │   ├──  oneliner0a.sh
+     │   ├──  oneliner0b.sh
+     │   └──  oneliner1.sh
+     ├──  scripts/
+     │   ├──  update_tdiff.sh
+     │   └──  update_tdiff.sh.prev
+     └──  src/
+         ├──  Makefile
+         └──  gettimeofday.c
+     
+     3 directories, 9 files (Tue Sep  6 22:12:24 JST 2022)
 
     ./uZone--tools--lsgithub
      ├──  00doit.sh
@@ -94,7 +211,47 @@ Unix Zone
      ├──  lsgithub
      └──  lsgithub_prev
      
-     0 directories, 6 files (Sat Sep  3 17:30:10 JST 2022)
+     0 directories, 6 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--movingGraph
+     ├──  README.md
+     ├──  README.md.old
+     ├──  examples.txt
+     └──  moving-graph-type1.sh
+     
+     0 directories, 4 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--nanoKontrol2
+     ├──  README.md
+     ├──  README.md.old
+     └──  nanoKONTROL2.sh
+     
+     0 directories, 3 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--oneliners
+     ├──  README.md
+     ├──  README.md.old
+     ├──  gamma-correction.sh
+     ├──  mkbarcode-demo.sh
+     ├──  mkqrcode-demo.sh
+     ├──  obsolete/
+     │   ├──  NTPtime2unixTime.sh
+     │   ├──  dumpNTPpacket.sh
+     │   ├──  getNTPdata.sh
+     │   ├──  unixTime2ISO8601time.sh
+     │   └──  unixTime2humanReadableTime.sh
+     ├──  urldecode.sh
+     └──  urlencode.sh
+     
+     1 directory, 12 files (Tue Sep  6 22:12:24 JST 2022)
+
+    ./uZone--tools--txt2gmail
+     ├──  README.md
+     ├──  README.md.old
+     ├──  dot.msmtprc
+     └──  txt2gmail.sh
+     
+     0 directories, 4 files (Tue Sep  6 22:12:24 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/uZone

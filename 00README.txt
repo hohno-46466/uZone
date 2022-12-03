@@ -2,13 +2,13 @@
 # 00README.txt
 #
 
-Last updated: Thu Apr  9 15:31:34 JST 2020
+Last update: Thu Apr  9 15:31:34 JST 2020
 
 drwxr-xr-x@ 5 hohno  staff  160  4  9 15:26 uZone
 
 ----------------------------------------
 
-Last updated: Thu Apr  9 15:32:18 JST 2020
+Last update: Thu Apr  9 15:32:18 JST 2020
 
 drwxr-xr-x@  5 hohno  staff  160  4  9 15:26 uZone
 drwxr-xr-x@ 10 hohno  staff  320  4  9 06:52 uZone--tools--NTPtools

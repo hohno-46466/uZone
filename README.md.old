@@ -8,7 +8,7 @@ Unix Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 4 files (Thu Dec 22 04:09:40 JST 2022)
+     0 directories, 4 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--EEU
      ├──  ==PrivateRepository==
@@ -116,7 +116,7 @@ Unix Zone
          └──  spool/
              └──  cron/
      
-     12 directories, 92 files (Thu Dec 22 04:09:40 JST 2022)
+     12 directories, 92 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--NTPtools
      ├──  README.md
@@ -144,7 +144,7 @@ Unix Zone
          ├──  unixTime2humanReadableTime.sh
          └──  unixTime2humanReadableTime.sh.bak
      
-     4 directories, 20 files (Thu Dec 22 04:09:40 JST 2022)
+     4 directories, 20 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--RPi-LED-Matrix
      ├──  ==PrivateRepository==
@@ -199,7 +199,7 @@ Unix Zone
          ├──  rpi-rgb-led-matrix-20180325-0400.tar.gz
          └──  rpi-rgb-led-matrix-20210627-0925.tar.gz
      
-     2 directories, 49 files (Thu Dec 22 04:09:40 JST 2022)
+     2 directories, 49 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--expectExamples
      ├──  README.md
@@ -207,7 +207,7 @@ Unix Zone
      ├──  expect-test.expect
      └──  expect-test.expect.bak
      
-     0 directories, 4 files (Thu Dec 22 04:09:40 JST 2022)
+     0 directories, 4 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--getbitmapfont
      ├──  README.md
@@ -234,7 +234,7 @@ Unix Zone
          │   └──  id_rsa.pub
          └──  trans270.rb
      
-     3 directories, 20 files (Thu Dec 22 04:09:41 JST 2022)
+     3 directories, 20 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--gettimeofday
      ├──  README.md
@@ -251,7 +251,7 @@ Unix Zone
          ├──  Makefile
          └──  gettimeofday.c
      
-     3 directories, 10 files (Thu Dec 22 04:09:41 JST 2022)
+     3 directories, 10 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--lsgithub
      ├──  00doit.sh
@@ -264,7 +264,7 @@ Unix Zone
      ├──  lsgithub_prev
      └──  lsgithub_prev.bak
      
-     0 directories, 9 files (Thu Dec 22 04:09:41 JST 2022)
+     0 directories, 9 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--movingGraph
      ├──  README.md
@@ -274,7 +274,7 @@ Unix Zone
      ├──  moving-graph-type1.sh
      └──  moving-graph-type1.sh.bak
      
-     0 directories, 6 files (Thu Dec 22 04:09:41 JST 2022)
+     0 directories, 6 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--nanoKontrol2
      ├──  README.md
@@ -282,7 +282,7 @@ Unix Zone
      ├──  nanoKONTROL2.sh
      └──  nanoKONTROL2.sh.bak
      
-     0 directories, 4 files (Thu Dec 22 04:09:41 JST 2022)
+     0 directories, 4 files (Sat Dec 24 17:48:30 JST 2022)
 
     ./uZone--tools--oneliners
      ├──  README.md
@@ -305,7 +305,7 @@ Unix Zone
      ├──  urldecode.sh
      └──  urlencode.sh
      
-     1 directory, 18 files (Thu Dec 22 04:09:41 JST 2022)
+     1 directory, 18 files (Sat Dec 24 17:48:31 JST 2022)
 
     ./uZone--tools--txt2gmail
      ├──  README.md
@@ -314,7 +314,7 @@ Unix Zone
      ├──  txt2gmail.sh
      └──  txt2gmail.sh.bak
      
-     0 directories, 5 files (Thu Dec 22 04:09:41 JST 2022)
+     0 directories, 5 files (Sat Dec 24 17:48:31 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/uZone
